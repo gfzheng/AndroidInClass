@@ -2,5 +2,13 @@
     <string name="app_name">课堂例子</string>
     <string name="name">姓名</string>
     <string name="message">请输入您的姓名:</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="button">Button</string>
+    <string name="stop">停止</string>
+    <string name="play">播放</string>
+    <string name="time">时间</string>
+    <string name="status">状态</string>
+    <string name="exit">退出</string>
 
 </resources>
